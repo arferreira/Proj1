@@ -1,2 +1,2 @@
 # Proj1
-Projeto teste
+Um projeto criado para testes de Branches e Git.
